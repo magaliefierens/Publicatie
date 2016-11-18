@@ -296,3 +296,17 @@
   font-family: 'Lato', sans-serif;
   font-size: 16px;
 }
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__items a {
+  font-size: 11px;
+  font-family: 'Lato', sans-serif;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
