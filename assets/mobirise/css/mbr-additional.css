@@ -3,17 +3,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
-
-
-
-
-
-
-
-
-
-
-
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -21,7 +10,7 @@
   background: #2c2c2c;
 }
 #menu-0 .mbr-navbar__items a {
-  font-size: 11px;
+  font-size: 36px;
   font-family: 'Lato', sans-serif;
 }
 #menu-0 .mbr-navbar__hamburger {
@@ -32,62 +21,9 @@
 }
 #header4-9 H1 {
   font-family: 'Roboto', sans-serif;
-  color: #46ff00;
+  color: #ffffff;
   font-size: 60px;
   text-align: left;
-}
-#header2-16 H1 {
-  font-family: 'Lato', sans-serif;
-  color: #46ff00;
-  font-size: 36px;
-}
-#header2-16 P {
-  font-size: 16px;
-  color: #000000;
-}
-#header2-11 H1 {
-  font-size: 30px;
-  font-family: 'Lato', sans-serif;
-  color: #46ff00;
-}
-#header2-11 P {
-  font-size: 16px;
-  font-family: 'Lato', sans-serif;
-}
-#content4-30 .mbr-section__col .mbr-header__text {
-  font-family: 'Lato', sans-serif;
-  font-size: 20px;
-}
-#content4-30 P {
-  font-family: 'Lato', sans-serif;
-  font-size: 13px;
-}
-#header2-30 H1 {
-  font-family: 'Lato', sans-serif;
-  font-size: 30px;
-  color: #46ff00;
-}
-#header2-30 P {
-  font-family: 'Lato', sans-serif;
-  font-size: 16px;
-}
-#header3-18 H3 {
-  color: #777777;
-  font-family: 'Lato', sans-serif;
-  font-size: 20px;
-}
-#header3-18 P {
-  font-size: 13px;
-  font-family: 'Lato', sans-serif;
-}
-#header2-31 H1 {
-  font-family: 'Lato', sans-serif;
-  font-size: 30px;
-  color: #46ff00;
-}
-#header2-31 P {
-  font-family: 'Lato', sans-serif;
-  font-size: 16px;
 }
 
 
@@ -109,7 +45,7 @@
   background: #2c2c2c;
 }
 #menu-45 .mbr-navbar__items a {
-  font-size: 11px;
+  font-size: 21px;
   font-family: 'Lato', sans-serif;
 }
 #menu-45 .mbr-navbar__hamburger {
@@ -194,7 +130,7 @@
   background: #2c2c2c;
 }
 #menu-32 .mbr-navbar__items a {
-  font-size: 11px;
+  font-size: 21px;
   font-family: 'Lato', sans-serif;
 }
 #menu-32 .mbr-navbar__hamburger {
@@ -267,7 +203,7 @@
   background: #2c2c2c;
 }
 #menu-0 .mbr-navbar__items a {
-  font-size: 11px;
+  font-size: 21px;
   font-family: 'Lato', sans-serif;
 }
 #menu-0 .mbr-navbar__hamburger {
@@ -275,52 +211,6 @@
 }
 #footer1-1 P {
   color: #ffffff;
-}
-
-#menu-11 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-11.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-11 .mbr-navbar__items a {
-  font-size: 11px;
-  font-family: 'Lato', sans-serif;
-}
-#menu-11 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#header1-14 H1 {
-  color: #46ff00;
-}
-#header1-14 P {
-  font-size: 14px;
-}
-#footer1-12 P {
-  color: #ffffff;
-}
-
-#menu-32 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-32.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-32 .mbr-navbar__items a {
-  font-size: 11px;
-  font-family: 'Lato', sans-serif;
-}
-#menu-32 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#footer1-33 P {
-  color: #ffffff;
-}
-#header1-15 H1 {
-  color: #46ff00;
-}
-#header1-15 P {
-  font-size: 14px;
 }
 
 
@@ -342,7 +232,7 @@
   background: #2c2c2c;
 }
 #menu-16 .mbr-navbar__items a {
-  font-size: 11px;
+  font-size: 21px;
   font-family: 'Lato', sans-serif;
 }
 #menu-16 .mbr-navbar__hamburger {
@@ -409,4 +299,198 @@
 #header2-1g P {
   font-family: 'Lato', sans-serif;
   font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#menu-1i .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1i .mbr-navbar__items a {
+  font-size: 21px;
+  font-family: 'Lato', sans-serif;
+}
+#menu-1i .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-1j P {
+  color: #ffffff;
+}
+#header4-1k H1 {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 60px;
+  text-align: center;
+}
+#header2-1l H1 {
+  font-family: 'Lato', sans-serif;
+  color: #46ff00;
+  font-size: 36px;
+}
+#header2-1l P {
+  font-size: 16px;
+  color: #000000;
+}
+#header2-1m H1 {
+  font-size: 30px;
+  font-family: 'Lato', sans-serif;
+  color: #46ff00;
+}
+#header2-1m P {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
+#content4-1o .mbr-section__col .mbr-header__text {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+#content4-1o P {
+  font-family: 'Lato', sans-serif;
+  font-size: 13px;
+}
+#header2-1p H1 {
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  color: #46ff00;
+}
+#header2-1p P {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+}
+#header3-1q H3 {
+  color: #777777;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+#header3-1q P {
+  font-size: 13px;
+  font-family: 'Lato', sans-serif;
+}
+#header2-1s H1 {
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  color: #46ff00;
+}
+#header2-1s P {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+}
+
+
+#menu-2p .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2p .mbr-navbar__items a {
+  font-size: 36px;
+  font-family: 'Lato', sans-serif;
+}
+#menu-2p .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-2q P {
+  color: #ffffff;
+}
+#header4-2r H1 {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 60px;
+  text-align: left;
+}
+
+
+#menu-2s .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2s.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2s .mbr-navbar__items a {
+  font-size: 36px;
+  font-family: 'Lato', sans-serif;
+}
+#menu-2s .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-2t P {
+  color: #ffffff;
+}
+#header4-2u H1 {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 60px;
+  text-align: left;
+}
+#header3-2w P {
+  text-align: left;
+  color: #777777;
+}
+
+
+#menu-31 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-31.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-31 .mbr-navbar__items a {
+  font-size: 36px;
+  font-family: 'Lato', sans-serif;
+}
+#menu-31 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-32 P {
+  color: #ffffff;
+}
+#header4-33 H1 {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 60px;
+  text-align: left;
+}
+
+
+#menu-37 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-37.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-37 .mbr-navbar__items a {
+  font-size: 36px;
+  font-family: 'Lato', sans-serif;
+}
+#menu-37 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-38 P {
+  color: #ffffff;
+}
+#header4-39 H1 {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+  font-size: 60px;
+  text-align: left;
+}
+#header4-39 .btn {
+  font-size: 20px;
+}
+#header4-39 B {
+  font-size: 24px;
 }
